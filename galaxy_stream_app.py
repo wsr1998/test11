@@ -6,7 +6,7 @@ Galaxy Stream Identification Web App
 使用方法:
     streamlit run galaxy_stream_app.py
 
-浏览器会自动打开,显示交互界面
+浏览器会自动打开,显示交互界面。
 """
 
 import streamlit as st
